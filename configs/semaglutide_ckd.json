@@ -1,0 +1,8 @@
+{
+  "drug": "Semaglutide CKD",
+  "drug_lower": "semaglutide ckd",
+  "condition": "Adults with T2DM and CKD eGFR 25-75 mL min 1 73m2",
+  "slug": "semaglutide_ckd",
+  "source_repo": "C:\\Projects\\Semaglutide_CKD_LivingMeta",
+  "source_html": "SEMAGLUTIDE_CKD_REVIEW.html"
+}
