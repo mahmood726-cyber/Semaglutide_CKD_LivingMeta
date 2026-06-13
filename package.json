@@ -1,0 +1,10 @@
+{
+  "name": "semaglutide-ckd-livingmeta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Semaglutide in diabetic kidney disease: living meta-analysis (FLOW trial) dashboard.",
+  "scripts": {
+    "test": "node test/smoke.test.js"
+  },
+  "license": "MIT"
+}
